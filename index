@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NIKE - Just Do It</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">NIKE</div>
+            <ul>
+                <li><a href="#">Hommes</a></li>
+                <li><a href="#">Femmes</a></li>
+                <li><a href="#">Nouveautés</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>DOMINE LE JEU</h1>
+        <p>Découvre la nouvelle collection Performance.</p>
+        <button>Acheter maintenant</button>
+    </section>
+
+    <main id="product-grid">
+    </main>
+
+    <footer>
+        <p>&copy; 2026 NIKE, Inc. Tous droits réservés.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
